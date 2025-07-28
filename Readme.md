@@ -7,3 +7,9 @@ easily replaced with oldschool web buttons. Think of this as a base theme/templa
 ## Demo
 Here's a link to the codepen for a demo:
 https://codepen.io/nilloc97/pen/KKeMLpK
+
+###
+links:
+https://github.com/bugulus/OldWebResourcesAndTemplates
+Here's a link to my repo of oldweb resources and templates
+that you could use to edit this template and customize it to your own liking
